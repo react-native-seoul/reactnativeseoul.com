@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reactnativeseoul.com/en/blog</id>
     <title>React Native Seoul Blog</title>
-    <updated>2022-09-23T16:32:34.000Z</updated>
+    <updated>2022-09-23T16:43:34.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reactnativeseoul.com/en/blog"/>
     <subtitle>React Native Seoul Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Blog]]></title>
         <id>/intro</id>
         <link href="https://reactnativeseoul.com/en/blog/intro"/>
-        <updated>2022-09-23T16:32:34.000Z</updated>
+        <updated>2022-09-23T16:43:34.000Z</updated>
         <summary type="html"><![CDATA[This is blog]]></summary>
         <content type="html"><![CDATA[<p>This is blog</p>]]></content>
     </entry>

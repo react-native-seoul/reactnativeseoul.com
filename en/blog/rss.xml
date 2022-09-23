@@ -4,7 +4,7 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/en/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Fri, 23 Sep 2022 16:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 16:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Blog]]></title>
             <link>https://reactnativeseoul.com/en/blog/intro</link>
             <guid>/intro</guid>
-            <pubDate>Fri, 23 Sep 2022 16:32:34 GMT</pubDate>
+            <pubDate>Fri, 23 Sep 2022 16:43:34 GMT</pubDate>
             <description><![CDATA[This is blog]]></description>
             <content:encoded><![CDATA[<p>This is blog</p>]]></content:encoded>
         </item>
