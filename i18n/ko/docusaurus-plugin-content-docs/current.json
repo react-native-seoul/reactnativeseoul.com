@@ -1,10 +1,14 @@
 {
   "version.label": {
-    "message": "Current",
+    "message": "최신",
     "description": "The label for version current"
   },
-  "sidebar.docs.category.Getting Started": {
-    "message": "시작하기",
-    "description": "The label for getting started"
+  "sidebar.docs.category.Meetup": {
+    "message": "밋업",
+    "description": "The label for meetup"
+  },
+  "sidebar.docs.category.Resource": {
+    "message": "리소스",
+    "description": "The label for resources"
   }
 }

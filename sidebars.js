@@ -7,17 +7,14 @@
 
 const sidebars = {
   docs: [
-    'introduction',
+    "introduction",
+    "news",
     {
-      type: 'category',
-      label: 'Getting Started',
-      link: {
-        type: 'generated-index',
-      },
+      type: "category",
+      label: "Resource",
+      link: { type: "generated-index" },
       collapsed: false,
-      items: [
-        'configuration',
-      ],
+      items: ["community", "forums", "meetup", "opensource"],
     },
   ],
 };

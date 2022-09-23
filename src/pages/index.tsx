@@ -15,68 +15,6 @@ import styles from "./styles.module.css";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
-const features = [
-  {
-    title: translate({
-      id: "homepage.section1",
-      message: "StackShare",
-      description: "StackShare",
-    }),
-    imageUrl: "img/svg_hackatalk1.svg",
-    description: translate({
-      id: "homepage.section1.description",
-      message:
-        "We want to foster a culture that nutures code sharing and collaboration. We would like to share our development stacks with all of you out there and grow together.",
-      description: "StackShare Description",
-    }),
-  },
-  {
-    title: translate({
-      id: "homepage.section2",
-      message: "Grow Together",
-      description: "Grow Together",
-    }),
-    imageUrl: "img/svg_hackatalk2.svg",
-    description: translate({
-      id: "homepage.section2.description",
-      message:
-        "We believe that communication is essential for efficient teamwork and group development. Feel free to share your ideas with us!",
-      description: "Grow Together Description",
-    }),
-  },
-  {
-    title: (
-      <Translate
-        id="homepage.section3"
-        description="homepage.section3 description"
-        values={{
-          doobooui: (
-            <Link to="https://github.com/dooboolab/dooboo-ui">dooboo-ui</Link>
-          ),
-        }}
-      >
-        {"Powered by {doobooui}"}
-      </Translate>
-    ),
-    imageUrl: "img/svg_hackatalk3.svg",
-    description: (
-      <Translate
-        id="homepage.section3.description"
-        description="homepage.section3.description description"
-        values={{
-          doobooui: (
-            <Link to="https://github.com/dooboolab/dooboo-ui">dooboo-ui</Link>
-          ),
-        }}
-      >
-        {
-          "Our project heavily depends on {doobooui}, another open source project we are currently working on. By participating in Halkatalk, you will learn to work with various opensource projects and help foster an open-source culture."
-        }
-      </Translate>
-    ),
-  },
-];
-
 function Feature({ key, imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
@@ -101,11 +39,14 @@ function Home() {
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <header className={classnames("hero hero--primary", styles.heroBanner)}>
-        <div className="container">
+      <header className={classnames("hero hero--primary", styles.heroBanner)} style={{ backgroundColor: '#24272D' }}>
+        <img src='img/hero.svg' alt='hero' />
+      </header>
+      <main>
+        <div className={styles.heroSection}>
           <h1 className="hero__title">
             <Translate id="homepage.title" description="homepage.title title">
-              React Native Seoul
+              리액트네이티브서울
             </Translate>
           </h1>
           <p className="hero__subtitle">
@@ -113,39 +54,46 @@ function Home() {
               id="homepage.description"
               description="homepage.description description"
             >
-              Opensource chat app that works on iOS, android and web
+              리액트네이티브, 리액트 그리고 관련 기술 등
             </Translate>
           </p>
           <div className={styles.buttons}>
             <Link
               className={classnames(
-                "button button--outline button--secondary button--lg",
-                styles.getStarted
+                "button button--outline button--primary button--lg",
+                styles.takeatoor
               )}
               to={useBaseUrl("/docs/current/introduction")}
             >
               <Translate
-                id="homepage.getstarted"
-                description="homepage.getstarted description"
+                id="homepage.takeatoor"
+                description="homepage.takeatoor description"
               >
-                Get Started
+                둘러보기
               </Translate>
             </Link>
           </div>
         </div>
-      </header>
-      <main>
-        {features && features.length && (
-          <section className={styles.features}>
-            <div className="container">
-              <div className="row">
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
+        <div className={styles.newsSection}>
+          <p className={styles.newsTitle} style={{ fontSize: '1.8em', fontWeight: 'bold' }}>
+            <Translate
+              id="homepage.news.title"
+              description="homepage.news title"
+            >
+              다가오는 뉴스
+            </Translate>
+          </p>
+          <p className={styles.newsDescription}>
+            <Translate
+              id="homepage.news.description"
+              description="homepage.news description"
+            >
+              다음 오프라인 행사는 10월 26일입니다. 확정되면 추후 공지드리겠습니다 🙇🏻
+            </Translate>
+          </p>
+        </div>
+        <div className={styles.newsContent}>
+        </div>
       </main>
     </Layout>
   );
