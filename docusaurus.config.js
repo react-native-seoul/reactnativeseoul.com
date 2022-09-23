@@ -73,8 +73,12 @@ module.exports = {
           title: "Community",
           items: [
             {
-              label: "Intro",
-              to: "/docs/current/introduction",
+              label: "Forums",
+              href: "https://forums.reactnativeseoul.com",
+            },
+            {
+              label: "Slack",
+              href: "https://dooboolab.com/joinRNSeoul",
             },
           ],
         },
@@ -88,15 +92,15 @@ module.exports = {
           ],
         },
         {
-          title: "Social",
+          title: "Contents",
           items: [
             {
               label: "Medium",
               href: "https://medium.com/react-native-seoul",
             },
             {
-              label: "Slack",
-              href: "https://dooboolab.com/joinRNSeoul",
+              label: "Youtube",
+              href: "https://www.youtube.com/playlist?list=PLMu8UG37vF6oJLNhjsjoy_ApcJFZZwJOo",
             },
           ],
         },
