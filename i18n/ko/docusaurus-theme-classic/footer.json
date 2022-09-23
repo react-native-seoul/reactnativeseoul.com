@@ -27,6 +27,10 @@
     "message": "미디엄",
     "description": "The label of footer link with label=Medium in the footer"
   },
+  "link.item.label.Youtube": {
+    "message": "유튜브",
+    "description": "The label of footer link with label=Youtube in the footer"
+  },
   "copyright": {
     "message": "Copyright © 2022 dooboolab.",
     "description": "The footer copyright"
