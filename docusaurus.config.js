@@ -6,16 +6,16 @@
  */
 
 module.exports = {
-  title: "dooboo",
-  url: "https://dooboo.org",
+  title: "React Native Seoul",
+  url: "https://reactnativeseoul.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
-  organizationName: "hyochan",
-  projectName: "dooboo",
+  organizationName: "react-native-seoul",
+  projectName: "reactnativeseoul.com",
   onBrokenLinks: "ignore",
   i18n: {
-    defaultLocale: "en",
+    defaultLocale: "ko",
     locales: ["en", "ko"],
   },
   plugins: [
@@ -37,20 +37,20 @@ module.exports = {
   ],
   themeConfig: {
     navbar: {
-      title: "dooboo",
+      title: "React Native Seoul",
       logo: {
-        alt: "dooboo",
+        alt: "reactnativeseoul",
         src: "img/logo.png",
       },
       items: [
         {
           to: "/docs/current/introduction",
-          label: "Documentation",
+          label: "Community",
           position: "left",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/hyochan/dooboo.org",
+          href: "https://github.com/react-native-seoul/reactnativeseoul.com",
           label: "GitHub",
           position: "right",
         },
@@ -70,7 +70,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Community",
           items: [
             {
               label: "Intro",
@@ -79,11 +79,11 @@ module.exports = {
           ],
         },
         {
-          title: "Community",
+          title: "Offline",
           items: [
             {
-              label: "Slack",
-              href: "https://dooboolab.com/joinSlack",
+              label: "Meetup",
+              href: "https://www.meetup.com/ko-KR/react-native-seoul",
             },
           ],
         },
@@ -92,7 +92,11 @@ module.exports = {
           items: [
             {
               label: "Medium",
-              href: "https://medium.com/dooboolab",
+              href: "https://medium.com/react-native-seoul",
+            },
+            {
+              label: "Slack",
+              href: "https://dooboolab.com/joinRNSeoul",
             },
           ],
         },
@@ -116,12 +120,12 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: ({ locale, docPath }) => {
             if (locale !== "en") {
-              return `https://github.com/hyochan/dooboo.org/tree/main/${locale}`;
+              return `https://github.com/react-native-seoul/reactnativeseoul.com/tree/main/${locale}`;
             }
             // We want users to submit doc updates to the upstream/next version!
             // Otherwise we risk losing the update on the next release.
             const nextVersionDocsDirPath = "docs";
-            return `https://github.com/hyochan/dooboo.org/edit/main/${nextVersionDocsDirPath}/${docPath}`;
+            return `https://github.com/react-native-seoul/reactnativeseoul.com/edit/main/${nextVersionDocsDirPath}/${docPath}`;
           },
         },
         theme: {

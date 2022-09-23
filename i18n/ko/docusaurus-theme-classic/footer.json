@@ -1,11 +1,11 @@
 {
-  "link.title.Docs": {
-    "message": "문서",
-    "description": "The title of the footer links column with title=Docs in the footer"
-  },
   "link.title.Community": {
     "message": "커뮤니티",
     "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Offline": {
+    "message": "오프라인",
+    "description": "The title of the footer links column with title=Offline in the footer"
   },
   "link.title.Social": {
     "message": "소셜",
@@ -15,13 +15,17 @@
     "message": "소개",
     "description": "The label of footer link with label=Intro linking to /docs/introduction"
   },
+  "link.item.label.Meetup": {
+    "message": "밋업",
+    "description": "The label of footer link with label=Meetup linking to https://www.meetup.com/ko-KR/react-native-seoul"
+  },
   "link.item.label.Slack": {
     "message": "슬랙",
-    "description": "The label of footer link with label=Slack linking to https://dooboolab.com/joinSlack"
+    "description": "The label of footer link with label=Slack linking to https://dooboolab.com/joinRNSeoul"
   },
   "link.item.label.Medium": {
     "message": "미디엄",
-    "description": "The label of footer link with label=Medium linking to https://medium.com/dooboolab"
+    "description": "The label of footer link with label=Medium linking to https://medium.com/react-native-seoul"
   },
   "copyright": {
     "message": "Copyright © 2022 dooboolab.",
