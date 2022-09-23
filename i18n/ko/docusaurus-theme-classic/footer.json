@@ -17,11 +17,11 @@
   },
   "link.item.label.Slack": {
     "message": "슬랙",
-    "description": "The label of footer link with label=Slack linking to https://dooboolab.com/joinSlack"
+    "description": "The label of footer link with label=Slack linking to https://dooboolab.com/joinRNSeoul"
   },
   "link.item.label.Medium": {
     "message": "미디엄",
-    "description": "The label of footer link with label=Medium linking to https://medium.com/dooboolab"
+    "description": "The label of footer link with label=Medium linking to https://medium.com/react-native-seoul"
   },
   "copyright": {
     "message": "Copyright © 2022 dooboolab.",

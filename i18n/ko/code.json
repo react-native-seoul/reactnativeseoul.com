@@ -164,8 +164,8 @@
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "homepage.title": {
-    "message": "두부",
-    "description": "dooboo"
+    "message": "리액트네이티브서울",
+    "description": "reactnativeseoul"
   },
   "homepage.section1": {
     "message": "스택 공유",
