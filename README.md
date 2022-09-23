@@ -1,12 +1,10 @@
-# dooboo.org
+# reactnativeseoul.com
 
-[![Check Website](https://github.com/hyochan/dooboo.org/actions/workflows/ci.yml/badge.svg)](https://github.com/react-native-seoul/reactnativeseoul.com/actions/workflows/ci.yml)
+[![Check Website](https://github.com/react-native-seoul/reactnativeseoul.com/actions/workflows/ci.yml/badge.svg)](https://github.com/react-native-seoul/reactnativeseoul.com/actions/workflows/ci.yml)
 
-[![Deploy Website](https://github.com/hyochan/dooboo.org/actions/workflows/deploy.yml/badge.svg)](https://github.com/react-native-seoul/reactnativeseoul.com/actions/workflows/deploy.yml)
+[![Deploy Website](https://github.com/react-native-seoul/reactnativeseoul.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/react-native-seoul/reactnativeseoul.com/actions/workflows/deploy.yml)
 
-
-
-The documentations for educational purpose.
+리액트네이티브서울 공식 홈페이지 입니다.
 
 ### Installation
 

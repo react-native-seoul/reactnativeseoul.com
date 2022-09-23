@@ -27,4 +27,4 @@ jobs:
           github_token: ${{ secrets.GH_TOKEN }}
           publish_dir: ./build
           publish_branch: gh-pages
-          cname: dooboo.org
+          cname: reactnativeseoul.com

@@ -105,7 +105,7 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">
             <Translate id="homepage.title" description="homepage.title title">
-              dooboo
+              React Native Seoul
             </Translate>
           </h1>
           <p className="hero__subtitle">
