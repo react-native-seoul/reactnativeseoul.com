@@ -1,8 +1,8 @@
 # dooboo.org
 
-[![Check Website](https://github.com/hyochan/dooboo.org/actions/workflows/ci.yml/badge.svg)](https://github.com/hyochan/dooboo.org/actions/workflows/ci.yml)
+[![Check Website](https://github.com/hyochan/dooboo.org/actions/workflows/ci.yml/badge.svg)](https://github.com/react-native-seoul/reactnativeseoul.com/actions/workflows/ci.yml)
 
-[![Deploy Website](https://github.com/hyochan/dooboo.org/actions/workflows/deploy.yml/badge.svg)](https://github.com/hyochan/dooboo.org/actions/workflows/deploy.yml)
+[![Deploy Website](https://github.com/hyochan/dooboo.org/actions/workflows/deploy.yml/badge.svg)](https://github.com/react-native-seoul/reactnativeseoul.com/actions/workflows/deploy.yml)
 
 
 
