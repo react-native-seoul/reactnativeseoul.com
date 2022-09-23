@@ -45,7 +45,7 @@ module.exports = {
       items: [
         {
           to: "/docs/current/introduction",
-          label: "Documentation",
+          label: "Community",
           position: "left",
         },
         { to: "/blog", label: "Blog", position: "left" },
@@ -70,7 +70,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Community",
           items: [
             {
               label: "Intro",
@@ -79,11 +79,11 @@ module.exports = {
           ],
         },
         {
-          title: "Community",
+          title: "Offline",
           items: [
             {
-              label: "Slack",
-              href: "https://dooboolab.com/joinRNSeoul",
+              label: "Meetup",
+              href: "https://www.meetup.com/ko-KR/react-native-seoul",
             },
           ],
         },
@@ -93,6 +93,10 @@ module.exports = {
             {
               label: "Medium",
               href: "https://medium.com/react-native-seoul",
+            },
+            {
+              label: "Slack",
+              href: "https://dooboolab.com/joinRNSeoul",
             },
           ],
         },
