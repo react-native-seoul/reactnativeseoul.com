@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://reactnativeseoul.com/blog</id>
+    <title>React Native Seoul Blog</title>
+    <updated>2022-09-23T12:39:02.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://reactnativeseoul.com/blog"/>
+    <subtitle>React Native Seoul Blog</subtitle>
+    <icon>https://reactnativeseoul.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인삿말]]></title>
+        <id>intro</id>
+        <link href="https://reactnativeseoul.com/blog/intro"/>
+        <updated>2022-09-23T12:39:02.000Z</updated>
+        <summary type="html"><![CDATA[안녕하세요. 리액트네이티브서울 주최자 장효찬입니다.]]></summary>
+        <content type="html"><![CDATA[<p>안녕하세요. 리액트네이티브서울 주최자 장효찬입니다.
+코로나 이후로 쿠팡에서도 행사를 하지 못하게 되어 오랫동안 커뮤니티 운영이 원활하지 못했습니다.
+다시금 커뮤니티 문화를 활성화하기 위하여 홈페이지를 새로 오픈하였습니다.</p><p>앞으로 홈페이지를 통해 새로운 소식을 지속해서 공유하고 원활한 운영을 해나가겠습니다.</p>]]></content>
+        <author>
+            <name>hyochan</name>
+            <uri>https://github.com/hyochan</uri>
+        </author>
+        <category label="소식" term="소식"/>
+        <category label="재개" term="재개"/>
+        <category label="운영" term="운영"/>
+    </entry>
+</feed>

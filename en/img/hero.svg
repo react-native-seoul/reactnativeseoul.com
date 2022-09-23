@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 900 400" style="enable-background:new 0 0 900 400;" xml:space="preserve">
+<style type="text/css">
+	<![CDATA[
+	@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;700&display=block");
+	.st0{fill:transparent;}
+	.st1{clip-path:url(#SVGID_00000159455610827685676780000016200321940541960122_);}
+	.st2{fill:url(#SVGID_00000103985857860047786210000003198469507895540872_);}
+	.st3{clip-path:url(#SVGID_00000093863753817265110760000002013014842553513100_);}
+	.st4{opacity:0.3;fill:url(#SVGID_00000112627174725197816800000003872117543968678800_);}
+	.st5{fill:url(#SVGID_00000070089412326974497870000016666003135017368756_);}
+	.st6{opacity:0.2;fill:url(#SVGID_00000129912693045438765300000004013327155309664909_);}
+	.st7{fill:url(#SVGID_00000181801641973077935750000011798897165595315889_);}
+	.st8{opacity:0.1;fill:url(#SVGID_00000126323340431807385450000000736147892731112588_);}
+	.st9{fill:url(#SVGID_00000145745779744940117040000012607961533031111602_);}
+	.st10{opacity:0.5;clip-path:url(#SVGID_00000093863753817265110760000002013014842553513100_);}
+	.st11{fill:url(#SVGID_00000111174176604373878530000007185502262089881489_);}
+	.st12{fill:url(#SVGID_00000142154564477094950840000005887346702990136460_);}
+	.st13{fill:url(#SVGID_00000160153354100836584850000009496080976044282258_);}
+	.st14{fill:url(#SVGID_00000070823503279346651040000016080272454683330693_);}
+	.st15{fill:url(#SVGID_00000121277349653992259020000017141059338170264736_);}
+	.st16{fill:url(#SVGID_00000077302563284039246020000001973971903040194978_);}
+	.st17{fill:url(#SVGID_00000153666350601949576920000006573246908958766498_);}
+	.st18{fill:url(#SVGID_00000157994497990229474820000017236634839405133233_);}
+	.st19{fill:url(#SVGID_00000043435325975924143250000004717135631853399743_);}
+	.st20{opacity:0.2;clip-path:url(#SVGID_00000093863753817265110760000002013014842553513100_);}
+	.st21{fill:url(#SVGID_00000175297571335277316520000002865821823116528552_);}
+	.st22{fill:url(#SVGID_00000183217844796272478060000000448483913240903600_);}
+	.st23{fill:url(#SVGID_00000176749518339272210900000007456688996929279395_);}
+	.st24{fill:url(#SVGID_00000078758266218495919020000012015392989933332141_);}
+	.st25{fill:url(#SVGID_00000139998769932428683010000017064109107476235191_);}
+	.st26{fill:url(#SVGID_00000072961818196686145030000002168918862864866227_);}
+	.st27{fill:url(#SVGID_00000160157395515150251260000013620300203262281886_);}
+	.st28{fill:url(#SVGID_00000009560880512653747290000002461174527911996335_);}
+	.st29{fill:url(#SVGID_00000062193390958348784630000015769550453439868315_);}
+	.bg2rotating{ 
+        animation: bg2rotatingKey 12s linear infinite;
+    }
+	@keyframes bg2rotatingKey {
+        0% {
+			transform:rotate(0deg);
+            transform-origin: center;
+        }
+		25% {
+			transform:rotate(4deg);
+            transform-origin: center;
+        }
+		75% {
+			transform:rotate(-4deg);
+            transform-origin: center;
+        }
+		100% {
+			transform:rotate(0deg);
+            transform-origin: center;
+        }
+	}
+	.bg3rotating{ 
+        animation: bg3rotatingKey 12s linear infinite;
+    }
+	@keyframes bg3rotatingKey {
+        0% {
+			transform:rotate(0deg);
+            transform-origin: center;
+        }
+		25% {
+			transform:rotate(-4deg);
+            transform-origin: center;
+        }
+		75% {
+			transform:rotate(4deg);
+            transform-origin: center;
+        }
+		100% {
+			transform:rotate(0deg);
+            transform-origin: center;
+        }
+	}
+	.main1scaling{ 
+        animation: main1scalingKey 2s ease-in-out infinite;
+    }
+	@keyframes main1scalingKey {
+        0% {
+			r:20;
+			opacity:0.4;
+            transform-origin: center;
+        }
+		50% {
+			r:24;
+			opacity:0.1;
+            transform-origin: center;
+        }
+		100% {
+			r:20;
+			opacity:0.4;
+            transform-origin: center;
+        }
+	}
+	.main2scaling{ 
+        animation: main2scalingKey 4s ease-in-out infinite;
+    }
+	@keyframes main2scalingKey {
+        0% {
+			r:20;
+			opacity:0.3;
+            transform-origin: center;
+        }
+		50% {
+			r:24;
+			opacity:0.05;
+            transform-origin: center;
+        }
+		100% {
+			r:20;
+			opacity:0.3;
+            transform-origin: center;
+        }
+	}
+	.main3scaling{ 
+        animation: main3scalingKey 3s ease-in-out infinite;
+    }
+	@keyframes main3scalingKey {
+        0% {
+			r:32;
+			opacity:0.1;
+            transform-origin: center;
+        }
+		50% {
+			r:38;
+			opacity:0.2;
+            transform-origin: center;
+        }
+		100% {
+			r:32;
+			opacity:0.1;
+            transform-origin: center;
+        }
+	}
+	.rnLogoLine{fill:none;stroke:#61DAFB;stroke-width:1;stroke-linecap:round}
+	.dooboolabLogoColor1{fill:#00FACB;}
+	.dooboolabLogoColor2{fill:#B446BF;}
+	.dooboolabLogoColor3{fill:#393D7A;}
+	.path {
+		stroke-dasharray: 100;
+		stroke-dashoffset: 100;
+		animation: dash 5s linear infinite;
+	}
+	.path {
+		stroke-dasharray: 100;
+		stroke-dashoffset: 100;
+		animation: dash 5s linear infinite;
+	}
+	@keyframes dash {
+		0% {
+			stroke-dashoffset: 100;
+		}
+		50% {
+			stroke-dashoffset: 0;
+		}
+		100% {
+			stroke-dashoffset: -100;
+		}
+	}
+	.logoscaling{ 
+        animation: logoscalingkey 3s linear infinite;
+    }
+	@keyframes logoscalingkey {
+        0% {
+			transform:scale(0.5);
+            transform-origin: center;
+        }
+		25% {
+			transform:scale(0.55);
+            transform-origin: center;
+        }
+		75% {
+			transform:scale(0.45);
+            transform-origin: center;
+        }
+		100% {
+			transform:scale(0.5);
+            transform-origin: center;
+        }
+	}
+	.logorotating{ 
+        animation: logosrotatingKey 3s linear infinite;
+    }
+	@keyframes logorotatingKey {
+        0% {
+			transform:rotate(-30);
+            transform-origin: center;
+        }
+		25% {
+			transform:rotate(-20);
+            transform-origin: center;
+        }
+		75% {
+			transform:rotate(-40);
+            transform-origin: center;
+        }
+		100% {
+			transform:rotate(-30);
+            transform-origin: center;
+        }
+	}
+	<!-- text animation -->
+	.titleTextStyle{font-family: "Inter", Sans-Serif;font-weight: 700;font-size: 16;}
+	.subtitleTextStyle{font-family: "Inter", Sans-Serif;font-weight: 300;font-size: 10px; fill: #FFFFFF; opacity:0.15;}
+	.textloading1{animation: textloadingKey 8s linear infinite; animation-delay:0s}
+	.textloading2{animation: textloadingKey 8s linear infinite; animation-delay:0.03s}
+	.textloading3{animation: textloadingKey 8s linear infinite; animation-delay:0.06s}
+	.textloading4{animation: textloadingKey 8s linear infinite; animation-delay:0.09s}
+	.textloading5{animation: textloadingKey 8s linear infinite; animation-delay:0.12s}
+	.textloading6{animation: textloadingKey 8s linear infinite; animation-delay:0.15s}
+	.textloading7{animation: textloadingKey 8s linear infinite; animation-delay:0.18s}
+	.textloading8{animation: textloadingKey 8s linear infinite; animation-delay:0.21s}
+	.textloading9{animation: textloadingKey 8s linear infinite; animation-delay:0.24s}
+	.textloading10{animation: textloadingKey 8s linear infinite; animation-delay:0.28s}
+	.textloading11{animation: textloadingKey 8s linear infinite; animation-delay:0.30s}
+	.textloading12{animation: textloadingKey2 8s linear infinite; animation-delay:0.83s}
+	.textloading13{animation: textloadingKey2 8s linear infinite; animation-delay:0.86s}
+	.textloading14{animation: textloadingKey2 8s linear infinite; animation-delay:0.89s}
+	.textloading15{animation: textloadingKey2 8s linear infinite; animation-delay:0.92s}
+	.textloading16{animation: textloadingKey2 8s linear infinite; animation-delay:0.95s}
+	@keyframes textloadingKey {
+		0% {
+			fill: transparent;
+		}
+		3% {
+			fill: #61dafb;
+		}
+		50% {
+			fill: #61dafb;
+		}
+		53% {
+			fill: transparent;
+		}
+		100% {
+			fill: transparent;
+		}
+	}
+	@keyframes textloadingKey2 {
+		0% {
+			fill: transparent;
+		}
+		3% {
+			fill: #FFFFFF;
+		}
+		50% {
+			fill: #FFFFFF;
+		}
+		53% {
+			fill: transparent;
+		}
+		100% {
+			fill: transparent;
+		}
+	}
+	.textmoving{animation: textmovingKey 8s linear infinite;}
+	@keyframes textmovingKey {
+		0% {
+			transform: translateX(0px);
+		}
+		0.01% {
+			transform: translateX(31px);
+		}
+		10% {
+			transform: translateX(31px);
+		}
+		13% {
+			transform: translateX(0px);
+		}
+		59% {
+			transform: translateX(0px);
+		}
+		61% {
+			transform: translateX(-60px);
+		}
+		99% {
+			transform: translateX(-60px);
+		100% {
+			transform: translateX(31px);
+		}
+	}
+	]]>
+</style>
+<g id="bg">
+	<rect x="0" class="st0" width="900" height="400"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="0" width="900" height="400"/>
+		</defs>
+		<clipPath id="SVGID_00000062880242409573799180000016499304394903871661_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000062880242409573799180000016499304394903871661_);">
+			
+				<radialGradient id="SVGID_00000096769902904200530550000014073496958218004136_" cx="450" cy="400" r="281.5417" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#00FACB;stop-opacity:0.1"/>
+				<stop  offset="0.8077" style="stop-color:#1D504C;stop-opacity:0.0192"/>
+				<stop  offset="1" style="stop-color:#24272D;stop-opacity:0"/>
+			</radialGradient>
+			<circle style="fill:url(#SVGID_00000096769902904200530550000014073496958218004136_);" cx="450" cy="400" r="281.54"/>
+		</g>
+	</g>
+</g>
+<g id="shape">
+	<g>
+		<defs>
+			<rect id="SVGID_00000013154082075698559560000000809604985382580665_" x="0" width="900" height="400"/>
+		</defs>
+		<clipPath id="SVGID_00000049917469848749525730000013722607365785740442_">
+			<use xlink:href="#SVGID_00000013154082075698559560000000809604985382580665_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="main-left-green" style="clip-path:url(#SVGID_00000049917469848749525730000013722607365785740442_);">
+			
+			<linearGradient id="SVGID_00000154387930590328571540000006569253084246722998_" gradientUnits="userSpaceOnUse" x1="135.3244" y1="292.696" x2="171.0564" y2="292.696">
+				<stop  offset="0" style="stop-color:#00FACB"/>
+				<stop  offset="0.6693" style="stop-color:#AAFDEE;stop-opacity:0.3307"/>
+				<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			</linearGradient>
+			<circle class="main1scaling" style="opacity:0.3;fill:url(#SVGID_00000154387930590328571540000006569253084246722998_);" cx="153.19" cy="292.7" r="17.87"/>
+			<linearGradient id="SVGID_00000062158132517338780290000016817340070078567840_" gradientUnits="userSpaceOnUse" x1="141.1784" y1="292.696" x2="165.2025" y2="292.696">
+				<stop  offset="0" style="stop-color:#00FACB"/>
+				<stop  offset="0.6693" style="stop-color:#AAFDEE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000062158132517338780290000016817340070078567840_);" cx="153.19" cy="292.7" r="12.01"/>
+		</g>
+		<g id="main-center-purple" style="clip-path:url(#SVGID_00000049917469848749525730000013722607365785740442_);">
+			
+				<linearGradient id="SVGID_00000141413062381369198420000013183106476509928603_" gradientUnits="userSpaceOnUse" x1="563.3077" y1="67.528" x2="607.3718" y2="67.528">
+				<stop  offset="0" style="stop-color:#B446BF"/>
+				<stop  offset="0.9202" style="stop-color:#F9F0FA;stop-opacity:0.0798"/>
+				<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			</linearGradient>
+			
+				<circle class="main2scaling" style="opacity:0.2;fill:url(#SVGID_00000141413062381369198420000013183106476509928603_);" cx="585.34" cy="67.53" r="22.03"/>
+			
+				<linearGradient id="SVGID_00000003081103694595474520000003312412162209651109_" gradientUnits="userSpaceOnUse" x1="577.0001" y1="67.528" x2="593.6794" y2="67.528">
+				<stop  offset="0" style="stop-color:#B446BF"/>
+				<stop  offset="0.9202" style="stop-color:#F9F0FA"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000003081103694595474520000003312412162209651109_);" cx="585.34" cy="67.53" r="8.34"/>
+		</g>
+		<g id="main-right-navy" style="clip-path:url(#SVGID_00000049917469848749525730000013722607365785740442_);">
+			
+				<linearGradient id="SVGID_00000077297277955127223580000014942251362479629972_" gradientUnits="userSpaceOnUse" x1="741.4778" y1="323.4401" x2="806.7911" y2="323.4401">
+				<stop  offset="0" style="stop-color:#393D7A"/>
+				<stop  offset="0.8603" style="stop-color:#E3E4EC;stop-opacity:0.1397"/>
+				<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			</linearGradient>
+			
+				<circle class="main3scaling" style="opacity:0.1;fill:url(#SVGID_00000077297277955127223580000014942251362479629972_);" cx="774.13" cy="323.44" r="32.66"/>
+			
+				<linearGradient id="SVGID_00000150823840242830478600000014109390908615018678_" gradientUnits="userSpaceOnUse" x1="757.3493" y1="323.4401" x2="790.9196" y2="323.4401">
+				<stop  offset="0" style="stop-color:#393D7A"/>
+				<stop  offset="0.8603" style="stop-color:#E3E4EC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000150823840242830478600000014109390908615018678_);" cx="774.13" cy="323.44" r="16.79"/>
+		</g>
+		<g id="2bg" class="bg2rotating" style="opacity:0.5;clip-path:url(#SVGID_00000049917469848749525730000013722607365785740442_);">
+			
+				<linearGradient id="SVGID_00000067224544982791441990000007579905429184244924_" gradientUnits="userSpaceOnUse" x1="141.1784" y1="237.5077" x2="147.4571" y2="237.5077">
+				<stop  offset="0" style="stop-color:#00FACB"/>
+				<stop  offset="0.6693" style="stop-color:#AAFDEE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000067224544982791441990000007579905429184244924_);" cx="144.32" cy="237.51" r="3.14"/>
+			
+				<linearGradient id="SVGID_00000139286429400377116920000008929883377257008529_" gradientUnits="userSpaceOnUse" x1="184.6964" y1="150.383" x2="190.9751" y2="150.383">
+				<stop  offset="0" style="stop-color:#00FACB"/>
+				<stop  offset="0.6693" style="stop-color:#AAFDEE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000139286429400377116920000008929883377257008529_);" cx="187.84" cy="150.38" r="3.14"/>
+			
+				<linearGradient id="SVGID_00000177451945559515599300000018135279166951592626_" gradientUnits="userSpaceOnUse" x1="228.2145" y1="337.0859" x2="234.4932" y2="337.0859">
+				<stop  offset="0" style="stop-color:#00FACB"/>
+				<stop  offset="0.6693" style="stop-color:#AAFDEE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000177451945559515599300000018135279166951592626_);" cx="231.35" cy="337.09" r="3.14"/>
+			
+				<linearGradient id="SVGID_00000183212800223222523520000001833764640016279475_" gradientUnits="userSpaceOnUse" x1="459.7612" y1="64.1129" x2="463.785" y2="64.1129">
+				<stop  offset="0" style="stop-color:#B446BF"/>
+				<stop  offset="0.9202" style="stop-color:#F9F0FA"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000183212800223222523520000001833764640016279475_);" cx="461.77" cy="64.11" r="2.01"/>
+			
+				<linearGradient id="SVGID_00000109728336337178742440000010801862522266582935_" gradientUnits="userSpaceOnUse" x1="596.8637" y1="152.3949" x2="600.8875" y2="152.3949">
+				<stop  offset="0" style="stop-color:#B446BF"/>
+				<stop  offset="0.9202" style="stop-color:#F9F0FA"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000109728336337178742440000010801862522266582935_);" cx="598.88" cy="152.39" r="2.01"/>
+			
+				<linearGradient id="SVGID_00000093134577868485662080000004899899136532352947_" gradientUnits="userSpaceOnUse" x1="640.5983" y1="89.5601" x2="644.6221" y2="89.5601">
+				<stop  offset="0" style="stop-color:#B446BF"/>
+				<stop  offset="0.9202" style="stop-color:#F9F0FA"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000093134577868485662080000004899899136532352947_);" cx="642.61" cy="89.56" r="2.01"/>
+			
+				<linearGradient id="SVGID_00000115473601244444873360000014136838796993414302_" gradientUnits="userSpaceOnUse" x1="657.6516" y1="294.814" x2="662.9619" y2="294.814">
+				<stop  offset="0" style="stop-color:#393D7A"/>
+				<stop  offset="0.8603" style="stop-color:#E3E4EC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000115473601244444873360000014136838796993414302_);" cx="660.31" cy="294.81" r="2.66"/>
+			
+				<linearGradient id="SVGID_00000081630712322965964720000011278232977444752527_" gradientUnits="userSpaceOnUse" x1="799.2293" y1="257.9496" x2="804.5396" y2="257.9496">
+				<stop  offset="0" style="stop-color:#393D7A"/>
+				<stop  offset="0.8603" style="stop-color:#E3E4EC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000081630712322965964720000011278232977444752527_);" cx="801.88" cy="257.95" r="2.66"/>
+			
+				<linearGradient id="SVGID_00000013179166030988493910000003409207475128140948_" gradientUnits="userSpaceOnUse" x1="759.7315" y1="146.3636" x2="765.0417" y2="146.3636">
+				<stop  offset="0" style="stop-color:#393D7A"/>
+				<stop  offset="0.8603" style="stop-color:#E3E4EC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000013179166030988493910000003409207475128140948_);" cx="762.39" cy="146.36" r="2.66"/>
+		</g>
+		<g id="3bg" class="bg3rotating" style="opacity:0.2;clip-path:url(#SVGID_00000049917469848749525730000013722607365785740442_);">
+			
+				<linearGradient id="SVGID_00000163751246925533074170000010430252108734886816_" gradientUnits="userSpaceOnUse" x1="243.2564" y1="265.8061" x2="248.5624" y2="265.8061">
+				<stop  offset="0" style="stop-color:#00FACB"/>
+				<stop  offset="0.6693" style="stop-color:#AAFDEE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000163751246925533074170000010430252108734886816_);" cx="245.91" cy="265.81" r="2.65"/>
+			
+				<linearGradient id="SVGID_00000061442065709770674360000015718053669655228823_" gradientUnits="userSpaceOnUse" x1="280.0325" y1="192.179" x2="285.3385" y2="192.179">
+				<stop  offset="0" style="stop-color:#00FACB"/>
+				<stop  offset="0.6693" style="stop-color:#AAFDEE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000061442065709770674360000015718053669655228823_);" cx="282.69" cy="192.18" r="2.65"/>
+			
+				<linearGradient id="SVGID_00000047044173577907293780000014955987715239707530_" gradientUnits="userSpaceOnUse" x1="185.1828" y1="208.5786" x2="190.4888" y2="208.5786">
+				<stop  offset="0" style="stop-color:#00FACB"/>
+				<stop  offset="0.6693" style="stop-color:#AAFDEE"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000047044173577907293780000014955987715239707530_);" cx="187.84" cy="208.58" r="2.65"/>
+			
+				<linearGradient id="SVGID_00000034802658733503657840000002707698928958215594_" gradientUnits="userSpaceOnUse" x1="354.7963" y1="120.1586" x2="358.1967" y2="120.1586">
+				<stop  offset="0" style="stop-color:#B446BF"/>
+				<stop  offset="0.9202" style="stop-color:#F9F0FA"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000034802658733503657840000002707698928958215594_);" cx="356.5" cy="120.16" r="1.7"/>
+			
+				<linearGradient id="SVGID_00000047751894325778617820000010728441191360845758_" gradientUnits="userSpaceOnUse" x1="628.1671" y1="194.9992" x2="631.5675" y2="194.9992">
+				<stop  offset="0" style="stop-color:#B446BF"/>
+				<stop  offset="0.9202" style="stop-color:#F9F0FA"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000047751894325778617820000010728441191360845758_);" cx="629.87" cy="195" r="1.7"/>
+			
+				<linearGradient id="SVGID_00000104702960975430942390000007960277940715775121_" gradientUnits="userSpaceOnUse" x1="507.6176" y1="141.6634" x2="511.018" y2="141.6634">
+				<stop  offset="0" style="stop-color:#B446BF"/>
+				<stop  offset="0.9202" style="stop-color:#F9F0FA"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000104702960975430942390000007960277940715775121_);" cx="509.32" cy="141.66" r="1.7"/>
+			
+				<linearGradient id="SVGID_00000052793477011932809840000002056454829180662178_" gradientUnits="userSpaceOnUse" x1="719.2598" y1="253.0844" x2="723.7473" y2="253.0844">
+				<stop  offset="0" style="stop-color:#393D7A"/>
+				<stop  offset="0.8603" style="stop-color:#E3E4EC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000052793477011932809840000002056454829180662178_);" cx="721.5" cy="253.08" r="2.24"/>
+			
+				<linearGradient id="SVGID_00000036953597975704278860000008841750859774926242_" gradientUnits="userSpaceOnUse" x1="838.9039" y1="221.9311" x2="843.3915" y2="221.9311">
+				<stop  offset="0" style="stop-color:#393D7A"/>
+				<stop  offset="0.8603" style="stop-color:#E3E4EC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000036953597975704278860000008841750859774926242_);" cx="841.15" cy="221.93" r="2.24"/>
+			
+				<linearGradient id="SVGID_00000144335849480149647480000005791404693407958939_" gradientUnits="userSpaceOnUse" x1="765.803" y1="189.9023" x2="770.2906" y2="189.9023">
+				<stop  offset="0" style="stop-color:#393D7A"/>
+				<stop  offset="0.8603" style="stop-color:#E3E4EC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<circle style="fill:url(#SVGID_00000144335849480149647480000005791404693407958939_);" cx="768.05" cy="189.9" r="2.24"/>
+		</g>
+	</g>
+</g>
+<g id="content">
+	<svg version="1.1" id="Layer_1" width="230" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="335px" y="-20px"
+		viewBox="0 0 23 20.46" style="enable-background:new 0 0 23 20.46;" xml:space="preserve">
+	<style type="text/css">
+		.rnLogoLine{fill:none;stroke:#61DAFB;stroke-width:0.2;stroke-linecap:round}
+		.dooboolabLogoColor1{fill:#00FACB;}
+		.dooboolabLogoColor2{fill:#B446BF;}
+		.dooboolabLogoColor3{fill:#393D7A;}
+		.path {
+			stroke-dasharray: 100;
+			stroke-dashoffset: 100;
+			animation: dash 8s linear infinite;
+			animation-delay: 2.5s;
+		}
+		.path2 {
+			stroke-dasharray: 100;
+			stroke-dashoffset: 100;
+			animation: dash2 8s linear infinite;
+			animation-delay: 2.5s;
+		}
+		.path3 {
+			stroke-dasharray: 100;
+			stroke-dashoffset: 100;
+			animation: dash3 8s linear infinite;
+			animation-delay: 2.5s;
+		}
+		@keyframes dash {
+			0% {
+				stroke-dashoffset: 100;
+			}
+			10% {
+				stroke-dashoffset: 0;
+			}
+			50% {
+				stroke-dashoffset: 0;
+			}
+			60% {
+				stroke-dashoffset: -100;
+			}
+			100% {
+				stroke-dashoffset: -100;
+			}
+		}
+		@keyframes dash2 {
+			0% {
+				stroke-dashoffset: 100;
+			}
+			5% {
+				stroke-dashoffset: 100;
+			}
+			15% {
+				stroke-dashoffset: 0;
+			}
+			55% {
+				stroke-dashoffset: 0;
+			}
+			65% {
+				stroke-dashoffset: -100;
+			}
+			100% {
+				stroke-dashoffset: -100;
+			}
+		}
+		@keyframes dash3 {
+			0% {
+				stroke-dashoffset: 100;
+			}
+			10% {
+				stroke-dashoffset: 100;
+			}
+			20% {
+				stroke-dashoffset: 0;
+			}
+			60% {
+				stroke-dashoffset: 0;
+			}
+			70% {
+				stroke-dashoffset: -100;
+			}
+			100% {
+				stroke-dashoffset: -100;
+			}
+		}
+		.logoscaling{ 
+			animation: logoscalingkey 3s linear infinite;
+		}
+		@keyframes logoscalingkey {
+			0% {
+				transform:scale(0.5);
+				transform-origin: center;
+			}
+			25% {
+				transform:scale(0.55);
+				transform-origin: center;
+			}
+			75% {
+				transform:scale(0.45);
+				transform-origin: center;
+			}
+			100% {
+				transform:scale(0.5);
+				transform-origin: center;
+			}
+		}
+		.logorotating{ 
+			animation: logosrotatingKey 3s linear infinite;
+		}
+		@keyframes logorotatingKey {
+			0% {
+				transform:rotate(-30);
+				transform-origin: center;
+			}
+			25% {
+				transform:rotate(-20);
+				transform-origin: center;
+			}
+			75% {
+				transform:rotate(-40);
+				transform-origin: center;
+			}
+			100% {
+				transform:rotate(-30);
+				transform-origin: center;
+			}
+		}
+	</style>
+	<g id="reactNativeLogo">
+		<ellipse class="rnLogoLine path" cx="11.5" cy="10.23" rx="11" ry="4.2"/>
+		<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -3.5752 7.1208)" class="rnLogoLine path2" cx="11.5" cy="10.23" rx="4.2" ry="11"/>
+		<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -3.1109 15.0752)" class="rnLogoLine path3" cx="11.5" cy="10.23" rx="11" ry="4.2"/>
+	</g>
+	<g transform="rotate(-30)" transform-origin="center">
+		<g id="dooboolabLogo" class="logoscaling">
+			<path class="dooboolabLogoColor1" d="M11.5,6.53c-0.73,0-1.42,0.03-2.09,0.08C9.02,7.18,8.65,7.77,8.3,8.38C7.94,9,7.61,9.62,7.32,10.23l4.18,0h0l2.09-3.62C12.92,6.56,12.23,6.53,11.5,6.53z"/>
+			<path class="dooboolabLogoColor2" d="M14.71,8.38c-0.36-0.61-0.73-1.21-1.11-1.77l-2.09,3.62l0,0l2.09,3.62c0.38-0.56,0.76-1.16,1.11-1.77c0.36-0.63,0.69-1.25,0.98-1.85C15.39,9.61,15.06,9,14.71,8.38z"/>
+			<path class="dooboolabLogoColor3" d="M11.5,10.23L11.5,10.23l-4.18,0c0.3,0.62,0.62,1.23,0.98,1.85c0.35,0.61,0.73,1.21,1.11,1.77c0.67,0.05,1.37,0.08,2.09,0.08c0.73,0,1.42-0.03,2.09-0.08L11.5,10.23z"/>
+		</g>
+	</g>
+	</svg>
+</g>
+<g id="textGroup">
+		<text id="titleText" class="textmoving" x="450" y="350" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Sans-Serif" font-weight="700" font-size="16" fill="transparent" letter-spacing="-1">
+			<tspan class="textloading1">R</tspan>
+			<tspan class="textloading2">e</tspan>
+			<tspan class="textloading3">a</tspan>
+			<tspan class="textloading4">c</tspan>
+			<tspan class="textloading5">t</tspan>
+			<tspan class="textloading6">N</tspan>
+			<tspan class="textloading7">a</tspan>
+			<tspan class="textloading8">t</tspan>
+			<tspan class="textloading9">i</tspan>
+			<tspan class="textloading10">v</tspan>
+			<tspan class="textloading11">e </tspan>
+			<tspan>_</tspan>
+			<tspan class="textloading12">S</tspan>
+			<tspan class="textloading13">e</tspan>
+			<tspan class="textloading14">o</tspan>
+			<tspan class="textloading15">u</tspan>
+			<tspan class="textloading16">l</tspan>
+		</text>
+	<text x="450" y="375" class="subtitleTextStyle" dominant-baseline="middle" text-anchor="middle">backed by dooboolab</text>
+
+</g>
+</svg>
