@@ -1,6 +1,6 @@
 ---
 slug: intro
-title: 인삿말
+title: 인사말
 author: hyochan
 authorTitle: 운영자
 authorURL: https://github.com/hyochan
