@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreactnativeseoul_com=self.webpackChunkreactnativeseoul_com||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uc778\uc0bf\ub9d0","permalink":"/blog/intro"}]}')}}]);
