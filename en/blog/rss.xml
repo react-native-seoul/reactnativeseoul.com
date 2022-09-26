@@ -4,7 +4,7 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/en/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Mon, 26 Sep 2022 09:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 09:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Blog]]></title>
             <link>https://reactnativeseoul.com/en/blog/intro</link>
             <guid>/intro</guid>
-            <pubDate>Mon, 26 Sep 2022 09:04:28 GMT</pubDate>
+            <pubDate>Mon, 26 Sep 2022 09:07:54 GMT</pubDate>
             <description><![CDATA[This is blog]]></description>
             <content:encoded><![CDATA[<p>This is blog</p>]]></content:encoded>
         </item>
@@ -20,7 +20,7 @@
             <title><![CDATA[카카오로그인 모듈 웹 지원]]></title>
             <link>https://reactnativeseoul.com/en/blog/kakao-login-web</link>
             <guid>kakao-login-web</guid>
-            <pubDate>Mon, 26 Sep 2022 09:04:28 GMT</pubDate>
+            <pubDate>Mon, 26 Sep 2022 09:07:54 GMT</pubDate>
             <description><![CDATA[리액트네이티브서울 8월 31일 밋업 내용입니다. 뉴뉴 프론트엔드 개발자 규남규님께서 리액트 네이티브 카카오로그인 오픈소스에 카카오 웹 로그인 기능을 기여해본 과정과 겪었던 문제들, 해결했던 방법등을 공유하였습니다.]]></description>
             <content:encoded><![CDATA[<p>리액트네이티브서울 8월 31일 밋업 내용입니다. 뉴뉴 프론트엔드 개발자 규남규님께서 리액트 네이티브 카카오로그인 오픈소스에 카카오 웹 로그인 기능을 기여해본 과정과 겪었던 문제들, 해결했던 방법등을 공유하였습니다.</p><p><a href="https://www.youtube.com/watch?v=DZypUEUWth0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=DZypUEUWth0</a></p><p>관련 PR</p><ul><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/319" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/319</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/322" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/322</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/329" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/329</a></li></ul><p>-뉴뉴 프론트엔드 구남규</p>]]></content:encoded>
             <category>밋업</category>
