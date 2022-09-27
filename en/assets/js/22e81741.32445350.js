@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreactnativeseoul_com=self.webpackChunkreactnativeseoul_com||[]).push([[358],{8045:function(e){e.exports=JSON.parse('{"permalink":"/en/blog/tags/\ubc0b\uc5c5","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

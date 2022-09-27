@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreactnativeseoul_com=self.webpackChunkreactnativeseoul_com||[]).push([[238],{1386:function(e){e.exports=JSON.parse('{"permalink":"/en/blog/tags/web-support","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

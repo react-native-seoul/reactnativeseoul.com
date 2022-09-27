@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreactnativeseoul_com=self.webpackChunkreactnativeseoul_com||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Kakao Login Module Web Support","permalink":"/en/blog/kakao-login-web"},{"title":"Greetings","permalink":"/en/blog/intro"}]}')}}]);

@@ -9,25 +9,30 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[카카오로그인 모듈 웹 지원]]></title>
+            <title><![CDATA[Kakao Login Module Web Support]]></title>
             <link>https://reactnativeseoul.com/en/blog/kakao-login-web</link>
             <guid>kakao-login-web</guid>
             <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[리액트네이티브서울 8월 31일 밋업 내용입니다. 뉴뉴 프론트엔드 개발자 규남규님께서 리액트 네이티브 카카오로그인 오픈소스에 카카오 웹 로그인 기능을 기여해본 과정과 겪었던 문제들, 해결했던 방법등을 공유하였습니다.]]></description>
-            <content:encoded><![CDATA[<p>리액트네이티브서울 8월 31일 밋업 내용입니다. 뉴뉴 프론트엔드 개발자 규남규님께서 리액트 네이티브 카카오로그인 오픈소스에 카카오 웹 로그인 기능을 기여해본 과정과 겪었던 문제들, 해결했던 방법등을 공유하였습니다.</p><p><a href="https://www.youtube.com/watch?v=DZypUEUWth0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=DZypUEUWth0</a></p><p>관련 PR</p><ul><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/319" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/319</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/322" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/322</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/329" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/329</a></li></ul><p>-뉴뉴 프론트엔드 구남규</p>]]></content:encoded>
-            <category>밋업</category>
-            <category>카카오로그인</category>
-            <category>웹</category>
-            <category>웹 지원</category>
+            <description><![CDATA[This is the content of the React Native Seoul meetup on August 31st. KnewKnew front-end developer, Namkyu Kyu shared the process of contributing the web feature to the React Native Kakao Login open source, the problems he encountered, and how he solved them.]]></description>
+            <content:encoded><![CDATA[<p>This is the content of the <a href="https://www.meetup.com/ko-KR/react-native-seoul/events/287894080" target="_blank" rel="noopener noreferrer">React Native Seoul meetup on August 31st</a>. KnewKnew front-end developer, Namkyu Kyu shared the process of contributing the web feature to the <a href="https://github.com/react-native-seoul/react-native-kakao-login" target="_blank" rel="noopener noreferrer">React Native Kakao Login</a> open source, the problems he encountered, and how he solved them.</p><p><a href="https://www.youtube.com/watch?v=DZypUEUWth0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=DZypUEUWth0</a></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="related-pr">Related PR<a class="hash-link" href="#related-pr" title="Direct link to heading">​</a></h3><ul><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/319" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/319</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/322" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/322</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/329" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/329</a></li></ul>]]></content:encoded>
+            <category>Meetup</category>
+            <category>Kakao Login</category>
+            <category>Web</category>
+            <category>Web Support</category>
             <category>react-native-web</category>
         </item>
         <item>
-            <title><![CDATA[Blog]]></title>
-            <link>https://reactnativeseoul.com/en/blog/2022/09/24/intro</link>
-            <guid>/2022/09/24/intro</guid>
+            <title><![CDATA[Greetings]]></title>
+            <link>https://reactnativeseoul.com/en/blog/intro</link>
+            <guid>intro</guid>
             <pubDate>Sat, 24 Sep 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is blog]]></description>
-            <content:encoded><![CDATA[<p>This is blog</p>]]></content:encoded>
+            <description><![CDATA[Hello. This is Hyo, the organizer of React Native Seoul.]]></description>
+            <content:encoded><![CDATA[<p>Hello. This is Hyo, the organizer of <strong>React Native Seoul</strong>.
+The community operation was not smooth for a long time as the event could not be held in <a href="https://www.coupang.com" target="_blank" rel="noopener noreferrer">Coupang</a> after COVID.
+In order to revitalize the community culture again, a new homepage has been opened.</p><p>Going forward, we will continue to share new news through our website and ensure smooth operation.</p>]]></content:encoded>
+            <category>News</category>
+            <category>Resume</category>
+            <category>Operations</category>
         </item>
     </channel>
 </rss>

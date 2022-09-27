@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreactnativeseoul_com=self.webpackChunkreactnativeseoul_com||[]).push([[8],{1113:function(e){e.exports=JSON.parse('{"label":"Web Support","permalink":"/en/blog/tags/web-support","allTagsPath":"/en/blog/tags","count":1}')}}]);

@@ -13,7 +13,7 @@
         <link href="https://reactnativeseoul.com/blog/kakao-login-web"/>
         <updated>2022-09-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[리액트네이티브서울 8월 31일 밋업 내용입니다. 뉴뉴 프론트엔드 개발자 규남규님께서 리액트 네이티브 카카오로그인 오픈소스에 카카오 웹 로그인 기능을 기여해본 과정과 겪었던 문제들, 해결했던 방법등을 공유하였습니다.]]></summary>
-        <content type="html"><![CDATA[<p>리액트네이티브서울 8월 31일 밋업 내용입니다. 뉴뉴 프론트엔드 개발자 규남규님께서 리액트 네이티브 카카오로그인 오픈소스에 카카오 웹 로그인 기능을 기여해본 과정과 겪었던 문제들, 해결했던 방법등을 공유하였습니다.</p><p><a href="https://www.youtube.com/watch?v=DZypUEUWth0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=DZypUEUWth0</a></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="관련-pr">관련 PR<a class="hash-link" href="#관련-pr" title="제목으로 바로 가기">​</a></h3><ul><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/319" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/319</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/322" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/322</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/329" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/329</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<p><a href="https://www.meetup.com/ko-KR/react-native-seoul/events/287894080" target="_blank" rel="noopener noreferrer">리액트네이티브서울 8월 31일 밋업</a> 내용입니다. 뉴뉴 프론트엔드 개발자 규남규님께서 리액트 네이티브 카카오로그인 오픈소스에 카카오 웹 로그인 기능을 기여해본 과정과 겪었던 문제들, 해결했던 방법등을 공유하였습니다.</p><p><a href="https://www.youtube.com/watch?v=DZypUEUWth0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=DZypUEUWth0</a></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="관련-pr">관련 PR<a class="hash-link" href="#관련-pr" title="제목으로 바로 가기">​</a></h3><ul><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/319" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/319</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/322" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/322</a></li><li><a href="https://github.com/react-native-seoul/react-native-kakao-login/pull/329" target="_blank" rel="noopener noreferrer">https://github.com/react-native-seoul/react-native-kakao-login/pull/329</a></li></ul>]]></content>
         <author>
             <name>nain93</name>
             <uri>https://github.com/nain93</uri>
@@ -31,7 +31,7 @@
         <updated>2022-09-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[안녕하세요. 리액트네이티브서울 주최자 장효찬입니다.]]></summary>
         <content type="html"><![CDATA[<p>안녕하세요. 리액트네이티브서울 주최자 장효찬입니다.
-코로나 이후로 쿠팡에서도 행사를 하지 못하게 되어 오랫동안 커뮤니티 운영이 원활하지 못했습니다.
+코로나 이후로 <a href="https://www.coupang.com" target="_blank" rel="noopener noreferrer">쿠팡</a>에서도 행사를 하지 못하게 되어 오랫동안 커뮤니티 운영이 원활하지 못했습니다.
 다시금 커뮤니티 문화를 활성화하기 위하여 홈페이지를 새로 오픈하였습니다.</p><p>앞으로 홈페이지를 통해 새로운 소식을 지속해서 공유하고 원활한 운영을 해나가겠습니다.</p>]]></content>
         <author>
             <name>hyochan</name>
