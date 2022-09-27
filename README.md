@@ -23,7 +23,7 @@ This command starts a local development server and open up a browser window. Mos
 #### Check locale
 
 ```
-yarn start:ko
+yarn start:en
 ```
 
 ### Build

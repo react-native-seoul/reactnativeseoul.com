@@ -46,7 +46,7 @@ function Home() {
         <div className={styles.heroSection}>
           <h1 className="hero__title">
             <Translate id="homepage.title" description="homepage.title title">
-              리액트네이티브서울
+              React Native Seoul
             </Translate>
           </h1>
           <p className="hero__subtitle">
@@ -54,22 +54,22 @@ function Home() {
               id="homepage.description"
               description="homepage.description description"
             >
-              리액트네이티브, 리액트 그리고 관련 기술 등
+              React Native, React and more
             </Translate>
           </p>
           <div className={styles.buttons}>
             <Link
               className={classnames(
                 "button button--outline button--primary button--lg",
-                styles.takeatoor
+                styles.takeatour
               )}
               to={useBaseUrl("/docs/current/introduction")}
             >
               <Translate
-                id="homepage.takeatoor"
-                description="homepage.takeatoor description"
+                id="homepage.takeatour"
+                description="homepage.takeatour description"
               >
-                둘러보기
+                Take a tour
               </Translate>
             </Link>
           </div>
@@ -80,7 +80,7 @@ function Home() {
               id="homepage.news.title"
               description="homepage.news title"
             >
-              다가오는 뉴스
+              Upcoming News
             </Translate>
           </p>
           <p className={styles.newsDescription}>
@@ -88,7 +88,7 @@ function Home() {
               id="homepage.news.description"
               description="homepage.news description"
             >
-              다음 오프라인 행사는 10월 26일입니다. 확정되면 추후 공지드리겠습니다 🙇🏻
+              The next offline event is October 26th. We will notify you later when it is confirmed 🙇🏻
             </Translate>
           </p>
         </div>

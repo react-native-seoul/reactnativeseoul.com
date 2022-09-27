@@ -191,9 +191,9 @@
     "message": "현 프로젝트는 {doobooui}로부터 강력한 지원을 받고 있습니다. 이는  지속해서 성장 중인 또 다른 오픈소스입니다. 해커톡에 참여하면 다양한 오픈소스 프로젝트와 함께 일하는 법을 배우고 오픈소스 문화를 육성하는데 많은 기여를 하실 수 있습니다.",
     "description": "homepage.section3.description description"
   },
-  "homepage.takeatoor": {
+  "homepage.takeatour": {
     "message": "둘러보기",
-    "description": "homepage.takeatoor description"
+    "description": "homepage.takeatour description"
   },
   "homepage.description": {
     "message": "리액트네이티브, 리액트 그리고 관련 기술 등",
