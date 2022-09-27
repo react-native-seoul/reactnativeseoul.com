@@ -49,6 +49,7 @@ module.exports = {
           position: "left",
         },
         { to: "/blog", label: "Blog", position: "left" },
+        { href: "https://forums.reactnativeseoul.com", label: "Forums", position: "left" },
         {
           href: "https://github.com/react-native-seoul/reactnativeseoul.com",
           label: "GitHub",

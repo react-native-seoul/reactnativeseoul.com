@@ -11,6 +11,10 @@
     "message": "블로그",
     "description": "Navbar item with label Blog"
   },
+  "item.label.Forums": {
+    "message": "포럼",
+    "description": "Navbar item with label GitHub"
+  },
   "item.label.GitHub": {
     "message": "깃허브",
     "description": "Navbar item with label GitHub"
