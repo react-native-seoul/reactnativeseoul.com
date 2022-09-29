@@ -4,10 +4,24 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Mon, 26 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
+        <item>
+            <title><![CDATA[새로운 GitHub 통계 시각화]]></title>
+            <link>https://reactnativeseoul.com/blog/dooboo-stats</link>
+            <guid>dooboo-stats</guid>
+            <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[새로운 방식으로 나의 GitHub 통계를 주는 방법을 소개합니다.]]></description>
+            <content:encoded><![CDATA[<p>새로운 방식으로 나의 GitHub 통계를 주는 방법을 소개합니다.
+<a href="https://dooboolab.medium.com/%EC%83%88%EB%A1%9C%EC%9A%B4-github-%ED%86%B5%EA%B3%84-%EC%8B%9C%EA%B0%81%ED%99%94-61b000b032d7" target="_blank" rel="noopener noreferrer">GitHub 통계 시각화</a>를 통해 여러분을 알려보세요.</p><p>English: <a href="https://medium.com/dooboolab/a-new-fancy-way-to-visualize-your-github-stats-418b5d59498" target="_blank" rel="noopener noreferrer">미디엄 블로그</a><br>
+Korean: <a href="https://dooboolab.medium.com/%EC%83%88%EB%A1%9C%EC%9A%B4-github-%ED%86%B5%EA%B3%84-%EC%8B%9C%EA%B0%81%ED%99%94-61b000b032d7" target="_blank" rel="noopener noreferrer">미디엄 블로그</a></p>]]></content:encoded>
+            <category>소식</category>
+            <category>깃허브</category>
+            <category>전투력</category>
+            <category>통계</category>
+        </item>
         <item>
             <title><![CDATA[카카오로그인 모듈 웹 지원]]></title>
             <link>https://reactnativeseoul.com/blog/kakao-login-web</link>

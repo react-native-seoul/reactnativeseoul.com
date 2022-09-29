@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreactnativeseoul_com=self.webpackChunkreactnativeseoul_com||[]).push([[659],{5089:function(e){e.exports=JSON.parse('{"label":"Web","permalink":"/en/blog/tags/web","allTagsPath":"/en/blog/tags","count":1}')}}]);

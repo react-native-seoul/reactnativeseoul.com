@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reactnativeseoul.com/blog</id>
     <title>React Native Seoul Blog</title>
-    <updated>2022-09-26T00:00:00.000Z</updated>
+    <updated>2022-09-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reactnativeseoul.com/blog"/>
     <subtitle>React Native Seoul Blog</subtitle>
     <icon>https://reactnativeseoul.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 GitHub 통계 시각화]]></title>
+        <id>dooboo-stats</id>
+        <link href="https://reactnativeseoul.com/blog/dooboo-stats"/>
+        <updated>2022-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[새로운 방식으로 나의 GitHub 통계를 주는 방법을 소개합니다.]]></summary>
+        <content type="html"><![CDATA[<p>새로운 방식으로 나의 GitHub 통계를 주는 방법을 소개합니다.
+<a href="https://dooboolab.medium.com/%EC%83%88%EB%A1%9C%EC%9A%B4-github-%ED%86%B5%EA%B3%84-%EC%8B%9C%EA%B0%81%ED%99%94-61b000b032d7" target="_blank" rel="noopener noreferrer">GitHub 통계 시각화</a>를 통해 여러분을 알려보세요.</p><p>English: <a href="https://medium.com/dooboolab/a-new-fancy-way-to-visualize-your-github-stats-418b5d59498" target="_blank" rel="noopener noreferrer">미디엄 블로그</a><br>
+Korean: <a href="https://dooboolab.medium.com/%EC%83%88%EB%A1%9C%EC%9A%B4-github-%ED%86%B5%EA%B3%84-%EC%8B%9C%EA%B0%81%ED%99%94-61b000b032d7" target="_blank" rel="noopener noreferrer">미디엄 블로그</a></p>]]></content>
+        <author>
+            <name>hyochan</name>
+            <uri>https://github.com/hyochan</uri>
+        </author>
+        <category label="소식" term="소식"/>
+        <category label="깃허브" term="깃허브"/>
+        <category label="전투력" term="전투력"/>
+        <category label="통계" term="통계"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오로그인 모듈 웹 지원]]></title>
         <id>kakao-login-web</id>
