@@ -20,6 +20,7 @@
   --ifm-color-primary-light: #5a6cd9;
   --ifm-color-primary-lighter: #6576dc;
   --ifm-color-primary-lightest: #8795e4;
+  --ifm-button-border-color: #333;
   --ifm-code-font-size: 95%;
   --paper: #f5f5f5;
 }

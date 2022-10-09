@@ -204,7 +204,11 @@
     "description": "homepage.news.description description"
   },
   "homepage.news.description": {
-    "message": "다음 오프라인 행사는 10월 26일입니다. 확정되면 추후 공지드리겠습니다 🙇🏻",
+    "message": "다음 밋업 신청이 열렸습니다. 날짜는 10월 26일 수요일 오후 7시부터 오후 9시까지입니다. 행사일에 뵙겠습니다 🙇",
     "description": "homepage.news.description description"
+  },
+  "homepage.apply": {
+    "message": "신청하기",
+    "description": "apply description"
   }
 }

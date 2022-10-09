@@ -2,7 +2,7 @@
 slug: dooboo-stats
 title: 새로운 GitHub 통계 시각화
 author: hyochan
-authorTitle: 운영자
+authorTitle: organizer
 authorURL: https://github.com/hyochan
 authorImageURL: https://avatars1.githubusercontent.com/u/27461460?s=460&u=b5860875e26d33fd70fd210f4ea74f81cdf9d99b&v=4
 authorTwitter: dooboolab

@@ -88,9 +88,25 @@ function Home() {
               id="homepage.news.description"
               description="homepage.news description"
             >
-              The next offline event is October 26th. We will notify you later when it is confirmed 🙇🏻
+              The next meetup application has been opened. The date is Wednesday, October 26th from 7pm to 9pm. See you on the day of the event 🙇
             </Translate>
           </p>
+          <div className={styles.buttons}>
+            <Link
+              className={classnames(
+                "button button--outline button--secondary button--lg",
+                styles.takeatour
+              )}
+              to={useBaseUrl("/blog/20221026-meetup")}
+            >
+              <Translate
+                id="homepage.apply"
+                description="homepage.apply description"
+              >
+                Apply now
+              </Translate>
+            </Link>
+          </div>
         </div>
         <div className={styles.newsContent}>
         </div>
