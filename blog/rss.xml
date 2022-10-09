@@ -4,10 +4,23 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Thu, 29 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
+        <item>
+            <title><![CDATA[10월 밋업 공지]]></title>
+            <link>https://reactnativeseoul.com/blog/20221026-meetup</link>
+            <guid>20221026-meetup</guid>
+            <pubDate>Sun, 09 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[안녕하세요 👋]]></description>
+            <content:encoded><![CDATA[<p>안녕하세요 👋
+<a href="https://www.meetup.com/ko-KR/react-native-seoul/events/289001565" target="_blank" rel="noopener noreferrer">10월 26일 밋업 신청</a>이 열렸습니다.</p><p>이번 밋업 장소는 400만 가입자, 월 방문자 100만명 커플들이 선택한 서비스 <a href="http://sumone.co" target="_blank" rel="noopener noreferrer">썸원</a>을 만들고 있는 <a href="https://www.monymony.co" target="_blank" rel="noopener noreferrer">모니모니</a>에서 제공해주시기로 하였습니다.</p><p>상세 장소 및 자세한 사항은 <a href="https://www.meetup.com/ko-KR/react-native-seoul/events/289001565" target="_blank" rel="noopener noreferrer">밋업 페이지</a>에서 확인해주세요.</p><p>그럼 밋업에서 뵙겠습니다 🙇🏻</p>]]></content:encoded>
+            <category>밋업</category>
+            <category>공지</category>
+            <category>10월</category>
+            <category>모니모니</category>
+        </item>
         <item>
             <title><![CDATA[새로운 GitHub 통계 시각화]]></title>
             <link>https://reactnativeseoul.com/blog/dooboo-stats</link>

@@ -4,10 +4,23 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/en/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Thu, 29 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[October Meetup Notice]]></title>
+            <link>https://reactnativeseoul.com/en/blog/20221026-meetup</link>
+            <guid>20221026-meetup</guid>
+            <pubDate>Sun, 09 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello 👋]]></description>
+            <content:encoded><![CDATA[<p>Hello 👋
+<a href="https://www.meetup.com/en-KR/react-native-seoul/events/289001565" target="_blank" rel="noopener noreferrer">October 26 meetup application</a> is now applicable.</p><p>The meeting place for this meetup will be provided by <a href="https://www.monymony.co" target="_blank" rel="noopener noreferrer">Monymony</a>, which is making <a href="http://sumone.co" target="_blank" rel="noopener noreferrer">Sumone</a>, a service chosen by couples with 4 million subscribers and 1 million monthly visitors.</p><p>Please check the <a href="https://www.meetup.com/en-KR/react-native-seoul/events/289001565" target="_blank" rel="noopener noreferrer">Meetup page</a> for the detailed location and details.</p><p>Then see you at the meetup 🙇🏻</p>]]></content:encoded>
+            <category>meetup</category>
+            <category>announcement</category>
+            <category>october</category>
+            <category>monymony</category>
+        </item>
         <item>
             <title><![CDATA[새로운 GitHub 통계 시각화]]></title>
             <link>https://reactnativeseoul.com/en/blog/dooboo-stats</link>

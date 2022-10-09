@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreactnativeseoul_com=self.webpackChunkreactnativeseoul_com||[]).push([[7804],{2788:function(e){e.exports=JSON.parse('{"label":"monymony","permalink":"/en/blog/tags/monymony","allTagsPath":"/en/blog/tags","count":1}')}}]);

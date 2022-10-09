@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reactnativeseoul.com/en/blog</id>
     <title>React Native Seoul Blog</title>
-    <updated>2022-09-29T00:00:00.000Z</updated>
+    <updated>2022-10-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reactnativeseoul.com/en/blog"/>
     <subtitle>React Native Seoul Blog</subtitle>
     <icon>https://reactnativeseoul.com/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[October Meetup Notice]]></title>
+        <id>20221026-meetup</id>
+        <link href="https://reactnativeseoul.com/en/blog/20221026-meetup"/>
+        <updated>2022-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello 👋]]></summary>
+        <content type="html"><![CDATA[<p>Hello 👋
+<a href="https://www.meetup.com/en-KR/react-native-seoul/events/289001565" target="_blank" rel="noopener noreferrer">October 26 meetup application</a> is now applicable.</p><p>The meeting place for this meetup will be provided by <a href="https://www.monymony.co" target="_blank" rel="noopener noreferrer">Monymony</a>, which is making <a href="http://sumone.co" target="_blank" rel="noopener noreferrer">Sumone</a>, a service chosen by couples with 4 million subscribers and 1 million monthly visitors.</p><p>Please check the <a href="https://www.meetup.com/en-KR/react-native-seoul/events/289001565" target="_blank" rel="noopener noreferrer">Meetup page</a> for the detailed location and details.</p><p>Then see you at the meetup 🙇🏻</p>]]></content>
+        <author>
+            <name>hyochan</name>
+            <uri>https://github.com/hyochan</uri>
+        </author>
+        <category label="meetup" term="meetup"/>
+        <category label="announcement" term="announcement"/>
+        <category label="october" term="october"/>
+        <category label="monymony" term="monymony"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 GitHub 통계 시각화]]></title>
         <id>dooboo-stats</id>
