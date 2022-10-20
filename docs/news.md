@@ -8,5 +8,6 @@ Here, we share upcoming news from the community.
 
 ## [Meetup](https://www.meetup.com/react-native-seoul)
 
-The next meetup will be held on `October 26th` at the office near Teheranro.
-We will also announce the meetup later and update the news here.
+The next meetup application has been opened. The date is Wednesday, October 26th from 7pm to 9pm. See you on the day of the event 🙇<br/>
+
+**[Apply for October Meetup](https://www.meetup.com/react-native-seoul/events/289001565)**
