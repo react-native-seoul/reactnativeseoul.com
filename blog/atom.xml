@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reactnativeseoul.com/blog</id>
     <title>React Native Seoul Blog</title>
-    <updated>2022-10-09T00:00:00.000Z</updated>
+    <updated>2022-10-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reactnativeseoul.com/blog"/>
     <subtitle>React Native Seoul Blog</subtitle>
     <icon>https://reactnativeseoul.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[App Center로 손쉬운 빌드 & 테스트 배포 구축]]></title>
+        <id>app-center</id>
+        <link href="https://reactnativeseoul.com/blog/app-center"/>
+        <updated>2022-10-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I would like to share how I have used MS's AppCenter while developing various apps with React Native. It's mainly about building and deploying tests that you have to do iteratively.]]></summary>
+        <content type="html"><![CDATA[<p>I would like to share how I have used MS's AppCenter while developing various apps with React Native. It's mainly about building and deploying tests that you have to do iteratively.</p><p><a href="https://youtu.be/SyN7nYejzSo" target="_blank" rel="noopener noreferrer">https://youtu.be/SyN7nYejzSo</a></p>]]></content>
+        <author>
+            <name>강명구</name>
+            <uri>https://github.com/JeffGuKang</uri>
+        </author>
+        <category label="Meetup" term="Meetup"/>
+        <category label="App Center" term="App Center"/>
+        <category label="CI" term="CI"/>
+        <category label="CD" term="CD"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10월 밋업 공지]]></title>
         <id>20221026-meetup</id>

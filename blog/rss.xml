@@ -4,10 +4,22 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Sun, 09 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
+        <item>
+            <title><![CDATA[App Center로 손쉬운 빌드 & 테스트 배포 구축]]></title>
+            <link>https://reactnativeseoul.com/blog/app-center</link>
+            <guid>app-center</guid>
+            <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I would like to share how I have used MS's AppCenter while developing various apps with React Native. It's mainly about building and deploying tests that you have to do iteratively.]]></description>
+            <content:encoded><![CDATA[<p>I would like to share how I have used MS's AppCenter while developing various apps with React Native. It's mainly about building and deploying tests that you have to do iteratively.</p><p><a href="https://youtu.be/SyN7nYejzSo" target="_blank" rel="noopener noreferrer">https://youtu.be/SyN7nYejzSo</a></p>]]></content:encoded>
+            <category>Meetup</category>
+            <category>App Center</category>
+            <category>CI</category>
+            <category>CD</category>
+        </item>
         <item>
             <title><![CDATA[10월 밋업 공지]]></title>
             <link>https://reactnativeseoul.com/blog/20221026-meetup</link>
