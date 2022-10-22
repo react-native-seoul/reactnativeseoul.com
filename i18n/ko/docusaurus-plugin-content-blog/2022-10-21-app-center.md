@@ -9,6 +9,6 @@ author Twitter:
 tags: [Meetup, App Center, CI, CD]
 ---
 
-I would like to share how I have used MS's AppCenter while developing various apps with React Native. It's mainly about building and deploying tests that you have to do iteratively.
+React Native로 다양한 앱을 개발하면서 MS의 AppCenter를 어떻게 사용했는지 공유하고자 합니다. 주로 반복적으로 수행해야 하는 테스트를 빌드하고 배포하는 것에 관한 것입니다.
 
 https://youtu.be/SyN7nYejzSo
