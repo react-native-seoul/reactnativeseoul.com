@@ -4,10 +4,22 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Fri, 21 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
+        <item>
+            <title><![CDATA[Easy Build & Test Deployments with App Center]]></title>
+            <link>https://reactnativeseoul.com/blog/code-push</link>
+            <guid>code-push</guid>
+            <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[강명구님이 CodePush를 통해 즉각적으로 모바일 클라이언트를 업데이트하는 방법에 대한 이야기를 공유해주셨습니다.]]></description>
+            <content:encoded><![CDATA[<p>강명구님이 CodePush를 통해 즉각적으로 모바일 클라이언트를 업데이트하는 방법에 대한 이야기를 공유해주셨습니다.</p><p><a href="https://youtu.be/78UAlT4z9XE" target="_blank" rel="noopener noreferrer">https://youtu.be/78UAlT4z9XE</a></p>]]></content:encoded>
+            <category>Meetup</category>
+            <category>codepush</category>
+            <category>CI</category>
+            <category>CD</category>
+        </item>
         <item>
             <title><![CDATA[App Center로 손쉬운 빌드 & 테스트 배포 구축]]></title>
             <link>https://reactnativeseoul.com/blog/app-center</link>

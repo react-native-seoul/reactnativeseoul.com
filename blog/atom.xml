@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reactnativeseoul.com/blog</id>
     <title>React Native Seoul Blog</title>
-    <updated>2022-10-21T00:00:00.000Z</updated>
+    <updated>2022-10-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reactnativeseoul.com/blog"/>
     <subtitle>React Native Seoul Blog</subtitle>
     <icon>https://reactnativeseoul.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Easy Build & Test Deployments with App Center]]></title>
+        <id>code-push</id>
+        <link href="https://reactnativeseoul.com/blog/code-push"/>
+        <updated>2022-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[강명구님이 CodePush를 통해 즉각적으로 모바일 클라이언트를 업데이트하는 방법에 대한 이야기를 공유해주셨습니다.]]></summary>
+        <content type="html"><![CDATA[<p>강명구님이 CodePush를 통해 즉각적으로 모바일 클라이언트를 업데이트하는 방법에 대한 이야기를 공유해주셨습니다.</p><p><a href="https://youtu.be/78UAlT4z9XE" target="_blank" rel="noopener noreferrer">https://youtu.be/78UAlT4z9XE</a></p>]]></content>
+        <author>
+            <name>강명구</name>
+            <uri>https://github.com/JeffGuKang</uri>
+        </author>
+        <category label="Meetup" term="Meetup"/>
+        <category label="codepush" term="codepush"/>
+        <category label="CI" term="CI"/>
+        <category label="CD" term="CD"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[App Center로 손쉬운 빌드 & 테스트 배포 구축]]></title>
         <id>app-center</id>
