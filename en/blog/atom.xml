@@ -8,7 +8,7 @@
     <subtitle>React Native Seoul Blog</subtitle>
     <icon>https://reactnativeseoul.com/en/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Easy Build & Test Deployments with App Center]]></title>
+        <title type="html"><![CDATA[Code push experience]]></title>
         <id>code-push</id>
         <link href="https://reactnativeseoul.com/en/blog/code-push"/>
         <updated>2022-10-24T00:00:00.000Z</updated>

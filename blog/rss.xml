@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
         <item>
-            <title><![CDATA[Easy Build & Test Deployments with App Center]]></title>
+            <title><![CDATA[CodePush 사용기]]></title>
             <link>https://reactnativeseoul.com/blog/code-push</link>
             <guid>code-push</guid>
             <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
