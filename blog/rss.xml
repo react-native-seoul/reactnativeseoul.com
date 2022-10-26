@@ -4,10 +4,19 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Mon, 24 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
+        <item>
+            <title><![CDATA[10월 밋업]]></title>
+            <link>https://reactnativeseoul.com/blog/meeptup-20221026</link>
+            <guid>meeptup-20221026</guid>
+            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[10월 26일 밋업 행사를 진행했습니다. 간단하게 현재 진행중이 밋업 내용을 소개했습니다.]]></description>
+            <content:encoded><![CDATA[<img loading="lazy" src="https://user-images.githubusercontent.com/27461460/198086669-908514bb-3f53-4c30-a8a7-6e7f2315c0fd.jpeg" width="600" class="img_ev3q"><p>10월 26일 밋업 행사를 진행했습니다. 간단하게 현재 진행중이 밋업 내용을 소개했습니다.</p><img loading="lazy" src="https://user-images.githubusercontent.com/27461460/198086670-925d4fa1-6282-44d2-aa38-98f1b40262a3.jpeg" width="600" class="img_ev3q"><img loading="lazy" src="https://user-images.githubusercontent.com/27461460/198086674-44aa40f2-42a0-4318-97bf-321a05ddcf98.jpeg" width="600" class="img_ev3q"><p>조를 편성하고 조장님을 선별하여 즐거운 토론 시간을 이어나갔습니다. 앞으로 각 그룹에서 어떤 유익한 콘텐츠를 제공해주실지 다음 시간이 매우 기대 되네요 🙂</p><img loading="lazy" src="https://user-images.githubusercontent.com/27461460/198088266-5ee23468-0623-4dcb-9d35-af4565479c43.jpeg" width="600" class="img_ev3q"><p>더불어 참가자분을 너무도 즐겁게 해준 팡에게 감사를 표합니다 🙏</p>]]></content:encoded>
+            <category>Meetup</category>
+        </item>
         <item>
             <title><![CDATA[CodePush 사용기]]></title>
             <link>https://reactnativeseoul.com/blog/code-push</link>
