@@ -1,6 +1,6 @@
 ---
 slug: dooboo-stats
-title: 새로운 GitHub 통계 시각화
+title: New GitHub stats visualization
 author: hyochan
 authorTitle: organizer
 authorURL: https://github.com/hyochan
