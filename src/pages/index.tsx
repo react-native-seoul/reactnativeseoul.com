@@ -97,7 +97,7 @@ function Home() {
                 "button button--outline button--secondary button--lg",
                 styles.takeatour
               )}
-              to={useBaseUrl("/blog/20221026-meetup")}
+              to={useBaseUrl("/blog/20221114-meetup")}
             >
               <Translate
                 id="homepage.apply"
