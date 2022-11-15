@@ -88,7 +88,7 @@ function Home() {
               id="homepage.news.description"
               description="homepage.news description"
             >
-              The next meetup application has been opened. The date is Wednesday, November 30th from 7:30pm to 9:30pm. See you on the day of the event 🙇
+              The next meetup application has been opened. The date is Wednesday, November 30th from 7:00pm to 9:30pm. See you on the day of the event 🙇
             </Translate>
           </p>
           <div className={styles.buttons}>
