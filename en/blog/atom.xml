@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reactnativeseoul.com/en/blog</id>
     <title>React Native Seoul Blog</title>
-    <updated>2022-10-26T00:00:00.000Z</updated>
+    <updated>2022-11-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reactnativeseoul.com/en/blog"/>
     <subtitle>React Native Seoul Blog</subtitle>
     <icon>https://reactnativeseoul.com/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[November Meetup Notice]]></title>
+        <id>20221114-meetup</id>
+        <link href="https://reactnativeseoul.com/en/blog/20221114-meetup"/>
+        <updated>2022-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello 👋]]></summary>
+        <content type="html"><![CDATA[<p>Hello 👋
+<a href="https://www.meetup.com/ko-KR/react-native-seoul/events/289741685" target="_blank" rel="noopener noreferrer">November 30 meetup application</a> is now applicable.</p><p>As announced last time, this meetup will select a topic for each group and make a presentation. The group that provides the most highly rated content will receive a prize worth 500,000 won ($376).</p><p>For the prize money, each leader can claim directly to our <a href="https://opencollective.com/dooboolab-community" target="_blank" rel="noopener noreferrer">community sponsored organization</a>. It is believed that each leader will reasonably spend the prize money with the members, but you can decide freely :)</p><p>For details, please check the <a href="https://www.meetup.com/ko-KR/react-native-seoul/events/289741685" target="_blank" rel="noopener noreferrer">meetup page</a>.</p><p>Then see you at the meetup 🙇🏻</p>]]></content>
+        <author>
+            <name>hyochan</name>
+            <uri>https://github.com/hyochan</uri>
+        </author>
+        <category label="meetup" term="meetup"/>
+        <category label="announcement" term="announcement"/>
+        <category label="october" term="october"/>
+        <category label="dooboolab" term="dooboolab"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[October Meetup]]></title>
         <id>meeptup-20221026</id>
