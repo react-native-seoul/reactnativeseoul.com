@@ -4,10 +4,19 @@
         <title>React Native Seoul Blog</title>
         <link>https://reactnativeseoul.com/en/blog</link>
         <description>React Native Seoul Blog</description>
-        <lastBuildDate>Mon, 14 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[November Meetup]]></title>
+            <link>https://reactnativeseoul.com/en/blog/meeptup-20221130</link>
+            <guid>meeptup-20221130</guid>
+            <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[At this meetup, presentations were made in groups determined at the previous meetup. We would like to thank the presenters again for their hard work.]]></description>
+            <content:encoded><![CDATA[<p>At this meetup, presentations were made in groups determined at the previous meetup. We would like to thank the presenters again for their hard work.</p><img loading="lazy" src="https://user-images.githubusercontent.com/27461460/206641938-2063d972-ac82-48bc-bb20-3ff7961fa231.jpg" width="600" class="img_ev3q"><img loading="lazy" src="https://user-images.githubusercontent.com/27461460/206641942-2fd300ff-4117-4fa8-8688-ab27f6f65dad.jpg" width="600" class="img_ev3q"><p>The first announcement was made by Hyungu Kang, a developer at Sandbird. We learned in detail about FlatList, which is often used in React Native, and how to optimize it. The presentation video is attached at the link below.</p><a href="https://www.youtube.com/watch?v=kcZ4ZXNX-r4&amp;t" target="_blank" rel="noopener noreferrer">리액트네이티브 FlatList 해부하기 영상 링크</a><br><br><img loading="lazy" src="https://user-images.githubusercontent.com/27461460/206641945-b8274d0d-4ff6-46d3-b894-892805c5cbbe.jpg" width="600" class="img_ev3q"><img loading="lazy" src="https://user-images.githubusercontent.com/27461460/206641949-bf490d34-9a49-434f-b633-3b618d0319d4.jpg" width="600" class="img_ev3q"><p>The second presentation was made by Noh Young-ji, who works at Connect Dream. You shared how to automate app builds and deployments with Fastlane. Please check the presentation video at the link below.</p><a href="https://www.youtube.com/watch?v=kcZ4ZXNX-r4&amp;t" target="_blank" rel="noopener noreferrer">리액트네이티브 FlatList 해부하기 영상 링크</a><br><br><p>Unfortunately, I couldn't share the rest of the presentation because the video was cut off, but I would also like to thank Lee Tae-heon for sharing how to use Naver Map.</p><p>As promised, a prize of 500,000 won will be given to the team that proceeded with the presentation. Prizes will be awarded at the next meetup on January 25th :)</p>]]></content:encoded>
+            <category>Meetup</category>
+        </item>
         <item>
             <title><![CDATA[November Meetup Notice]]></title>
             <link>https://reactnativeseoul.com/en/blog/20221114-meetup</link>
