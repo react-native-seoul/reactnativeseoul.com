@@ -88,9 +88,12 @@ function Home() {
               id="homepage.news.description"
               description="homepage.news description"
             >
-              The next meetup application has been opened. The date is Wednesday, November 30th from 7:00pm to 9:30pm. See you on the day of the event 🙇
+              In 2023, React Native Seoul will be renamed to Cross Platform Korea.
+              The first official date for the meetup is January 25, 2023 from 7:30pm to 9:30pm. We look forward to participating in the new meetup in the future. We look forward to learning more about cross-platform and having meaningful discussions.
+              Happy new year and see you at the meetup 🙇
             </Translate>
           </p>
+          {/*
           <div className={styles.buttons}>
             <Link
               className={classnames(
@@ -107,6 +110,7 @@ function Home() {
               </Translate>
             </Link>
           </div>
+          */}
         </div>
         <div className={styles.newsContent}>
         </div>
