@@ -201,10 +201,10 @@
   },
   "homepage.news.title": {
     "message": "다가오는 뉴스",
-    "description": "homepage.news.description description"
+    "description": "homepage.news.title description"
   },
   "homepage.news.description": {
-    "message": "다음 밋업 날짜는 11월 30일 수요일 오후 7시부터 오후 9시 30분까지입니다. 행사일에 뵙겠습니다 🙇",
+    "message": "2023년부터 리액트네이티브서울이 크로스플랫폼코리아로 명칭이 변경될 예정입니다. 밋업 첫 공식 일정은 2023년 1월 25일 오후 7시 30분부터 오후 9시 30분까지입니다. 앞으로 새롭게 시작하는 밋업에 많은 참여 바랍니다. 그리고 크로스플랫폼에 대해 더 많은 지식을 습득하고 토론을 해나갈 수 있기를 기원합니다. 새해복 많이 받으시고 행사장에서 뵙겠습니다. 🙇",
     "description": "homepage.news.description description"
   },
   "homepage.apply": {
