@@ -10,7 +10,7 @@
 
 ~~리액트네이티브서울 공식 홈페이지 입니다.~~
 
-[reactnativeseoul.com](https://reactnativeseoul.com)
+~~[reactnativeseoul.com](https://reactnativeseoul.com)~~
 
 ### Installation
 
